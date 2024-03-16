@@ -1,0 +1,9 @@
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creating and completing tasks;https://github.com/TharunvijayS/pythonProject.git;1.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices;https://github.com/TharunvijayS/python-project-app4.1.git;2.png
+News API;A news can be read by API with the help of api key and send to given mail address;https://github.com/TharunvijayS/python-project-app5-api.git;3.png
+Tour Scarper;A program that checks a music band's website and sends an email when there are new tours;https://github.com/TharunvijayS/web-scarping.git;4.png
+Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic;https://github.com/TharunvijayS/Chatbot.git;5.png
+WebCam Motion Detector;A program that monitors the computer webcam and send an email when a new object enters the view;https://github.com/TharunvijayS/webcam-detection.git;6.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city;https://github.com/TharunvijayS/weather-forecast-api.git;7.png
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend;https://github.com/TharunvijayS/student-management-system.git;8.png
